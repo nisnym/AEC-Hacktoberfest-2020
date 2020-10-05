@@ -3,11 +3,29 @@
 # AEC-Hacktoberfest-2020
 This repos is created for the students of Asansol Engineering College to get the acquainted to open source contributions. People outside AEC can also contribute.
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+# HacktoberFest Starter Project
 
-## How to Participate in Hacktoberfest 2020?
-### Register yourself.
-Register yourself [here](https://hacktoberfest.digitalocean.com/) to be eligible to participate in Hacktoberfest. You need to have a GitHub Account to do that.
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+
+Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
+
+This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+
+## What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+
+Register for Hacktoberfest and come back here.
+
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
+## Learning Material
+The YouTube video below will walk you through setting up Git and GitHub on your computer for Windows so that you can start to use version control and collaboration tools like a pro.
+
+1. [YouTube video](https://www.youtube.com/watch?v=-sMmrYTtQgE&feature=youtu.be)
+2. [Setup GIT](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git)
+3. [Git Basic Commmands](https://www.theodinproject.com/courses/web-development-101/lessons/git-basics)
+
+# How to create a Pull Request
 
 ## Fork this repository
 
@@ -55,25 +73,15 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
-
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-
-Add those changes to the branch you just created using the `git add` command:
-
-```
-git add Contributors.md
+Add those changes to the branch you just created using the git add command:
+```markdown
+git add .
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Your custom Message"
 ```
-replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
@@ -83,4 +91,36 @@ git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
+## Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+## Wait for your PR review and merge approval!
+
+# Pull Requests / PRs
+## First PR/Pull Request)
+
+Your first pull request will be your Name, Branch and Semester to the `name.txt` file.
+
+## Second PR/Pull Request
+
+You will have to write a program using loops and if else statement with the language of your choice and push it to this repository.
+
+
+## Third PR/Pull Request
+
+Write one more program with the language of your choice but this time add comments. Make sure to use loops and if else statement.
+
+## Fourth PR/Pull Request
+
+Try to do this on your own on some other public repository
+
+Go through the issue tabs for some other repository and try to find issues labelled as `good first issues` or `hactoberfest`. If possible try to solve them and create your fourth PR/Pull Request.
+
+## Swags 
+---
+### The Original - **DigitalOcean, Intel, and Dev**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 4 pull requests in any repository
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+---
 
