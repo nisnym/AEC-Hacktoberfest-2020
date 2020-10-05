@@ -1,7 +1,7 @@
 
 ![Banner](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 # AEC-Hacktoberfest-2020
-This repos is created for the students of Asansol Engineering College to get the acquainted to open source contributions. People outside AEC can also contribute.
+This repo is created for the students of Asansol Engineering College to get the acquainted to open source contributions. People outside AEC can also contribute.
 
 # HacktoberFest Starter Project
 
@@ -95,8 +95,8 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 * Wait for your PR review and merge approval!
 
 # Pull Requests / PRs
-
-## First PR/Pull Request)
+---
+## First PR/Pull Request
 
 Your first pull request will be your Name, Branch and Semester to the `name.txt` file.
 
@@ -114,6 +114,8 @@ Write one more program with the language of your choice but this time add commen
 Try to do this on your own on some other public repository
 
 Go through the issue tabs for some other repository and try to find issues labelled as `good first issues` or `hactoberfest`. If possible try to solve them and create your fourth PR/Pull Request.
+
+---
 
 ## Swags 
 ---
