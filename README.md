@@ -1,9 +1,13 @@
 
 ![Banner](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 # AEC-Hacktoberfest-2020
-
+This repos is created for the students of Asansol Engineering College to get the acquainted to open source contributions. People outside AEC can also contribute.
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+
+## How to Participate in Hacktoberfest 2020?
+### Register yourself.
+Register yourself [here](https://hacktoberfest.digitalocean.com/) to be eligible to participate in Hacktoberfest. You need to have a GitHub Account to do that.
 
 ## Fork this repository
 
@@ -12,7 +16,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/nisnym/first-contributions/master/assets/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -23,7 +27,7 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://github.com/nisnym/first-contributions/raw/master/assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 ```
@@ -79,14 +83,4 @@ git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
-
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
-
-Now submit the pull request.
-
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
-
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
