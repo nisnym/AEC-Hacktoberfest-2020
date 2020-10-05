@@ -49,7 +49,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/AEC-Hacktoberfest-2020.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
@@ -58,7 +58,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd AEC-Hacktoberfest-2020
 ```
 Now create a branch using the `git checkout` command:
 ```
@@ -67,7 +67,7 @@ git checkout -b <add-your-new-branch-name>
 
 For example:
 ```
-git checkout -b add-alonzo-church
+git checkout -b Nishant
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
@@ -91,10 +91,11 @@ git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-## Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-## Wait for your PR review and merge approval!
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+* Wait for your PR review and merge approval!
 
 # Pull Requests / PRs
+
 ## First PR/Pull Request)
 
 Your first pull request will be your Name, Branch and Semester to the `name.txt` file.
